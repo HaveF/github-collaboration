@@ -95,9 +95,9 @@ But you can setup several branches for different remote repo, like this:
 
 ![local machine](local.png)
 
-`your new branch for PR` should send to your `{github-collaboration}`, and send PR on the web later.
+`{your new branch}` is used for demonstrating your customed page.
 
-`your new branch` is used for demonstrating your customed page.
+`{your new branch for PR}` should push to your remote `{github-collaboration}`, and send PR on the web later.
 
 Web based workflow (The easiest)
 --------------------------------
