@@ -1,5 +1,5 @@
 github-collaboration
-====================
+--------------------
 
 Training course for GitHub.
 
@@ -8,11 +8,14 @@ workflows about Github.
 
 **Table of Contents**
 
-* [Background](#background)
-* [SWC's repo maze :dizzy_face:](#swcs-repo-maze-dizzy_face)
-* [Web based workflow (The easiest)](#web-based-workflow-easiest)
-* [Command line or gui tools based workflow (The most flexible)](#command-line-or-gui-tools-based-workflow-the-most-flexible)
-* [Tips](#tips)
+- [Background](#background)
+- [SWC's repo maze ](#swcs-repo-maze-dizzy_face)
+    - [Basic GitHub fork idea](#basic-github-fork-idea)
+    - [Your original intention  may only to use the repo ](#your-original-intention--may-only-to-use-the-repo-)
+    - [The gh-pages thing](#the-gh-pages-thing)
+- [Web based workflow (The easiest)](#web-based-workflow-the-easiest)
+- [Command line or gui based workflow (The most flexible)](#command-line-or-gui-based-workflow-the-most-flexible)
+- [Tips](#tips)
 
 
 Background
