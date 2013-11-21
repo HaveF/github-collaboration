@@ -52,11 +52,11 @@ Basic GitHub fork idea
 
 1. After you click Fork button.
 
-![fork](fork.png)
+ ![fork](fork.png)
 
 2. You made some changes in new branch.
 
-![new_commits](new_commits.png)
+ ![new_commits](new_commits.png)
 
 3. You can send PR (Pull Request) now.
 
