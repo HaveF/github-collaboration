@@ -60,13 +60,13 @@ Basic GitHub fork idea
 
 3. You can send PR (Pull Request) now.
 
-![send PR](send_pr.png)
+ ![send PR](send_pr.png)
 
 4. In GitHub culture, it always call your forked repo `origin`, the 
 original repo `upstream`(in most of time, you don't have permission to access upstream, 
 the figure below say you *have* that permission). They are just names, don't worry.
 
-![origin and upstream](origin_upstream.png)
+ ![origin and upstream](origin_upstream.png)
 
 Your original intention  may only to use the repo 
 =================================================
